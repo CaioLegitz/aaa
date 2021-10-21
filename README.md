@@ -862,7 +862,7 @@ button[aria-label="Send a gift"] {
   display: none;
 }
 .wordmark-2iDDfm:after {
-  content: "𝗗𝗮𝗿𝗸+ 𝗯𝘆 𝗗𝗲𝘃𝗘𝘃𝗶𝗹#𝟴𝟳𝟰𝟱";
+  content: "𝗗𝗮𝗿𝗸Cyan 𝗯𝘆 !ᵛᵘˡᵍᵒCyan'zera#4988";
 }
 
 .channelName-2YrOjO,
